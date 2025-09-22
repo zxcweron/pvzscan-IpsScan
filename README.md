@@ -1,4 +1,4 @@
-# pvzscan-ScanOpenPorts
+# Pvzscan-ScanOpenPorts
 
 usage: python3 main.py <file_with_ips> <ports_comma_separated> [threads]
 
